@@ -1,0 +1,3 @@
+Sistemas distribuídos permitem que múltiplas máquinas trabalhem em conjunto para processar tarefas de forma escalável e resiliente. Componentes como filas, balanceadores e bancos distribuídos são comuns.
+
+Documento número 2. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

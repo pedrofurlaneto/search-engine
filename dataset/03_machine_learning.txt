@@ -1,0 +1,3 @@
+Machine learning utiliza algoritmos capazes de identificar padrões em dados. Modelos supervisionados e não supervisionados são aplicados em previsão, classificação e recomendação.
+
+Documento número 3. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

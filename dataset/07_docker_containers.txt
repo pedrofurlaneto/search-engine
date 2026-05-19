@@ -1,0 +1,3 @@
+Containers Docker empacotam aplicações e dependências em ambientes isolados. Isso reduz inconsistências entre desenvolvimento e produção.
+
+Documento número 7. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

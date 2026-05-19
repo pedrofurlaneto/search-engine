@@ -1,0 +1,3 @@
+Arquiteturas orientadas a eventos utilizam filas e brokers para desacoplar serviços. Eventos permitem comunicação assíncrona e escalável.
+
+Documento número 16. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

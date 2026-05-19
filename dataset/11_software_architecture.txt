@@ -1,0 +1,3 @@
+Arquitetura de software define a organização de componentes, responsabilidades e comunicação entre serviços. Boas decisões arquiteturais facilitam manutenção.
+
+Documento número 11. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

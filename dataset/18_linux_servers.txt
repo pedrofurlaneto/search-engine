@@ -1,0 +1,3 @@
+Servidores Linux são amplamente utilizados em infraestrutura moderna devido à estabilidade, segurança e flexibilidade de configuração.
+
+Documento número 18. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

@@ -1,0 +1,3 @@
+Frameworks frontend como React ajudam na criação de interfaces dinâmicas baseadas em componentes reutilizáveis.
+
+Documento número 19. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

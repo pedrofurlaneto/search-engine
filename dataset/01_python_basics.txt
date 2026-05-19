@@ -1,0 +1,3 @@
+Python é uma linguagem de programação amplamente utilizada para desenvolvimento web, automação, análise de dados e inteligência artificial. Sua sintaxe simples facilita o aprendizado e acelera a produtividade.
+
+Documento número 1. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

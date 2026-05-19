@@ -1,0 +1,3 @@
+Bancos de dados armazenam informações estruturadas e não estruturadas. Soluções relacionais utilizam SQL, enquanto bancos NoSQL priorizam flexibilidade e escalabilidade horizontal.
+
+Documento número 4. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

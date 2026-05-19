@@ -1,0 +1,3 @@
+Motores de busca utilizam crawling, indexação e ranking para encontrar documentos relevantes. Índices invertidos aceleram buscas textuais.
+
+Documento número 9. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.

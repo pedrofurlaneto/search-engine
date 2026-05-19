@@ -1,0 +1,3 @@
+Redis é frequentemente utilizado como cache em memória e sistema de pub/sub. Sua baixa latência melhora desempenho de aplicações.
+
+Documento número 17. Este texto foi criado para testes de ingestão, indexação e busca textual em um motor de busca experimental desenvolvido em Python.
