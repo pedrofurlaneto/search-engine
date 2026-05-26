@@ -8,6 +8,10 @@ class MemoryIndexer(Indexer):
     def __init__(self) -> None:
         self._index: dict[str, dict[str, int]] = {}
 
+    @property
+    def index(self) -> dict[str, dict[str, int]]:
+        return self._index
+
     def index_document(self, doc_id: str, tokens: list[str]) -> None:
         for token in tokens:
             if token not in self._index:

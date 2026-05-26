@@ -7,3 +7,8 @@ class Document:
     title: str
     content: str
     path: str
+
+@dataclass
+class SearchResult:
+    document_id: str
+    score: int
