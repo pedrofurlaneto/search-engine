@@ -3,7 +3,7 @@ from pathlib import Path
 import pytest
 
 from engine.domain.models import Document
-from engine.infrastructure.loader.txt_impl import LoaderTxtImpl
+from engine.infrastructure.txt_loader import LoaderTxtImpl
 
 
 def test_load_single_file(tmp_path: Path):

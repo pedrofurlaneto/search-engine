@@ -1,6 +1,6 @@
-from engine.infrastructure.indexer.memory_indexer import MemoryIndexer
-from engine.infrastructure.loader.txt_impl import LoaderTxtImpl
-from engine.infrastructure.tokenizer.simple_tokenizer import SimpleTokenizer
+from engine.infrastructure.memory_indexer import MemoryIndexer
+from engine.infrastructure.txt_loader import LoaderTxtImpl
+from engine.infrastructure.simple_tokenizer import SimpleTokenizer
 from logger import get_logger, setup_logger
 
 logger = get_logger(__name__)

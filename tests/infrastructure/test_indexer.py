@@ -1,6 +1,6 @@
 import pytest
 
-from engine.infrastructure.indexer.memory_indexer import MemoryIndexer
+from engine.infrastructure.memory_indexer import MemoryIndexer
 
 
 @pytest.fixture

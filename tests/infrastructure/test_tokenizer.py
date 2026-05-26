@@ -1,6 +1,6 @@
 import pytest
 
-from engine.infrastructure.tokenizer.simple_tokenizer import SimpleTokenizer
+from engine.infrastructure.simple_tokenizer import SimpleTokenizer
 
 
 @pytest.fixture
